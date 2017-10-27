@@ -1,0 +1,42 @@
+#graph {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.first-jumbotron{
+    padding-top: 70px;
+}
+
+.jumbotron{
+    padding-top: 20px;
+}
+
+.error-message {
+    color: #c00;
+}
+
+.overlay{
+      background-color:#EEE;
+      display: block;
+      margin: auto;
+}
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font: 10px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}

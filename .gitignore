@@ -1,0 +1,24 @@
+# Node Files
+/node_modules
+
+# General Files
+.DS_Store
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Webpack Files
+/public/bundle.js
+/public/bundle.js.map
+
+# Crawler Files
+# Nothing yet... will want to obfuscate the DB config file
+CRAWLER_OUTPUT-*
+
+# Python Components
+*.pyc
+
+# Test Directories
+/d3-test
+/d3-tree-test
